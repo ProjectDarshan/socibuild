@@ -1,0 +1,7 @@
+{
+  "name": "Socibuild",
+  "description": "The ultimate social skills builder. Master interviews, confident expression, and understanding behavior with AI. Connect with a community of learners.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
